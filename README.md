@@ -1,2 +1,2 @@
-# Reddit-bot
+# For-Reddit-bot
 Bot for accessing Reddit
